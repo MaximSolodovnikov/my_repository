@@ -1,6 +1,6 @@
 <?php 
 require_once "fns.php";
-
+/*comment for git tracking*/
 session_start();
 if(!isset($_SESSION['cart'])) 
 {
