@@ -1,0 +1,269 @@
+#login_cab {
+	position: fixed;
+	margin-top: 250px;
+}
+
+#login_cab a{
+	text-decoration: none;
+	font-size: 0.8em;
+	color: black;
+}
+
+#username {
+	color: #39B54A;
+	font-size: 17px;
+	font-weight: bold;
+	margin-left: 5px;
+}
+
+#table_site {
+	width: 75%;
+	margin: 0 auto;
+	border: 1px solid #CCCCCC;
+}
+
+#header {
+	width: 97.91666666666667%; /*940px*/
+	margin: 0 auto;
+	height: 105px;
+}
+
+#header_text {
+	float: right;
+	margin-right: 20px;
+	line-height: 105px;
+	font-size: 1.5em;
+	/*font-weight: bold;*/
+	/*font-style: italic;*/
+	text-transform: uppercase;
+	color: #39B54A;
+}
+
+#logo{
+	padding-top: 10px;
+}
+
+#menu {
+	width: 97.91666666666667%; /*940px*/
+	margin: 0 auto;
+	background-color: #F8F8F8;
+	border: 1px solid #CCCCCC;
+}
+
+#menu ul li{
+	display: inline-block;
+	margin-right: 30px;
+	text-decoration: none;
+	padding: 10px;
+}
+
+#menu ul li a{
+		margin-left: -30px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: black;
+	font-size: 1em;
+}
+
+#menu ul li a:hover{
+	color: #39B54A;
+}
+
+.menu_active {
+	color: #39B54A !important;
+}
+
+#search {
+	float: right;
+	margin-right: 20px;
+	padding-top: 25px;
+}
+
+#search_result {
+	margin-top: 50px;
+}
+
+#content {
+	width: 97.91666666666667%; /*940px*/
+	margin: 0 auto;
+	margin-top: -20px;
+	text-align: center;
+	padding-top: 30px;
+}
+
+#content a{
+	text-decoration: none;
+	color: black;
+}
+
+#footer {
+	border-top: 1px solid #CCCCCC;
+	width: 97.91666666666667%; /*940px*/
+	margin: 0 auto;
+	height: 20px;
+	background-color: #F8F8F8;
+}
+
+#footer span {
+	line-height: 20px;
+	color: #CCCCCC;
+	font-size: 13px;
+	float: right;
+}
+
+#registration {
+	text-align: center;
+	padding: 25px;
+	margin: 0px auto;
+	color: black;
+}
+
+/*начало страницы продукт*/
+#page_product {
+	text-align: center;
+	margin: 0 auto;
+	width: 700px;
+	width: 800px;
+}
+
+#page_product p{
+	text-align: justify;
+}
+
+#form_comment {
+	margin: 0px auto;
+	padding: 5px;
+	border: 1px solid #CCCCCC;
+	width: 400px;
+}
+
+#displ_comment {
+	margin: 0 auto;
+	width: 800px;
+	border: 1px solid #CCCCCC;
+	text-align: left;
+}
+
+#prod_auth_price {
+	font-weight: bold;
+}
+/*конец страницы продукт*/
+
+#cart {
+	text-align: center;
+	padding: 25px;
+}
+#cart table, #cart td {
+	border-spacing: 0px;
+	margin: 0 auto;
+	width: 800px;
+	border: 1px solid #CCCCCC;
+	border-collapse: collapse;
+}
+
+/*начало страницы продукты по категориям*/
+
+#products_by_cat {
+	border: 1px solid #CCCCCC;
+	margin: 0 auto;
+	text-align: center;
+	width: 700px;
+	margin-bottom: 5px;
+}
+
+#products_by_cat a{
+	text-decoration: none;
+	color: black;
+}
+
+#products_by_cat table{
+	border-spacing: 0px;
+}
+
+#products_by_cat img{
+	width: 100px;
+	padding: 5px;
+}
+
+#products_by_cat p{
+	text-align: justify;
+	padding: 5px;
+	font-size: 14px;
+}
+/*конец страницы продукты по категориям*/
+
+#index_page {
+	padding: 10px;
+}
+
+#index_page  table{
+	border: 1px solid #CCCCCC;
+	text-align: justify;
+}
+
+#index_title{
+	text-align: center;
+}
+
+#index_page img{
+	width: 100px;
+	padding: 10px;
+}
+
+#index_page a{
+	text-decoration: none;
+	color: black;
+}
+
+#index_price {
+	color: green;
+	font-weight: bold;
+}
+
+#accep_order {
+	color: #39B54A;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+#info {
+	text-align: center;
+	color: red;
+}
+
+.error {
+	font-size: 15px;
+	color: red;
+}
+
+#price_book a{
+	text-align: center;
+}
+
+/*Стили АДМИНКИ*/
+#adm_catalog {
+	margin: 0 auto;
+	text-align: center;
+}
+
+#adm_catalog table {
+	border-spacing: 0px;
+}
+
+#adm_catalog th, #adm_catalog td {
+	margin: 0 auto;
+	width: 800px;
+	border: 1px solid #CCCCCC;
+	border-collapse: collapse;
+}
+
+/*Vipad*/
+
+
+
+
+
+
+
+
+
