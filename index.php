@@ -1,6 +1,6 @@
 <?php 
 require_once "fns.php";
-
+/*comment for git tracking. How to do commit to remote repository*/
 session_start();
 if(!isset($_SESSION['cart'])) 
 {
